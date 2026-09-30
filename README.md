@@ -30,7 +30,7 @@ Principais entregas:
 - Python
 - Django
 - PostgreSQL
-- Celery/worker assíncrono
+- Worker assíncrono próprio com fila persistida em PostgreSQL
 - HTML/CSS/JavaScript
 - Mercado Pago
 - AWS S3
