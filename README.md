@@ -8,7 +8,7 @@ Desenvolvedor focado em construir produtos digitais completos: backend, frontend
 
 Criei e coloquei em produção o **Packaging Ledger Brasil**, um SaaS para empresas que precisam organizar inventário de embalagens, cálculos de massa, rastreabilidade operacional e fluxo comercial com pagamento online.
 
-**Site:** https://www.packagingledger.com  
+**Status:** operação comercial encerrada; projeto preservado como demonstração de portfólio, com execução local sem cobranças.  
 **Repositório:** https://github.com/Brunof94-debug/packaging-ledger-brasil
 
 Principais entregas:
@@ -50,4 +50,4 @@ Principais entregas:
 ## Contato
 
 - GitHub: https://github.com/Brunof94-debug
-- Projeto: https://www.packagingledger.com
+- Demo e estudo de caso: https://github.com/Brunof94-debug/packaging-ledger-brasil
